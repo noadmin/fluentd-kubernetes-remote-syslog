@@ -1,4 +1,4 @@
-FROM fluent/fluentd-kubernetes-daemonset:v1.7-debian-syslog-1
+FROM fluent/fluentd-kubernetes-daemonset:v1.11-debian-syslog-1
 
 LABEL maintainer="Too Drunk"
 
